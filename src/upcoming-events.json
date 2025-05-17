@@ -1,0 +1,102 @@
+[
+  {
+    "name": "The art of spying",
+    "location": "Barad sector, Asharu",
+    "speaker": "Artemis Tau",
+    "type": "free",
+    "time": {
+      "start": "2022-04-12T18:00:00",
+      "end": "2022-04-12T19:00:00"
+    }
+  },
+  {
+    "name": "Quantum Mechanics Basics",
+    "location": "Sector 7, Luna City",
+    "speaker": "Dr. Elara Vonn",
+    "type": "paid",
+    "time": {
+      "start": "2022-05-03T14:00:00",
+      "end": "2022-05-03T15:30:00"
+    }
+  },
+  {
+    "name": "AI and Humanity",
+    "location": "New Berlin, Mars",
+    "speaker": "Kai Morven",
+    "type": "free",
+    "time": {
+      "start": "2022-06-10T16:00:00",
+      "end": "2022-06-10T17:00:00"
+    }
+  },
+  {
+    "name": "History of Space Warfare",
+    "location": "Orbital Station Vega",
+    "speaker": "Commander Juno Lex",
+    "type": "paid",
+    "time": {
+      "start": "2022-07-15T10:00:00",
+      "end": "2022-07-15T12:00:00"
+    }
+  },
+  {
+    "name": "Terraforming 101",
+    "location": "Gaia Dome, Europa",
+    "speaker": "Professor Rhea Solis",
+    "type": "free",
+    "time": {
+      "start": "2022-08-20T09:00:00",
+      "end": "2022-08-20T10:30:00"
+    }
+  },
+  {
+    "name": "Galactic Diplomacy",
+    "location": "Unity Hall, Titan",
+    "speaker": "Ambassador Niko Thal",
+    "type": "free",
+    "time": {
+      "start": "2022-09-05T13:00:00",
+      "end": "2022-09-05T14:00:00"
+    }
+  },
+  {
+    "name": "Alien Linguistics",
+    "location": "Xenocenter, Proxima B",
+    "speaker": "Dr. Selene Arq",
+    "type": "paid",
+    "time": {
+      "start": "2022-10-18T11:30:00",
+      "end": "2022-10-18T12:30:00"
+    }
+  },
+  {
+    "name": "Nanotechnology in Medicine",
+    "location": "BioLab 23, Venus Orbital",
+    "speaker": "Dr. Theo Krynn",
+    "type": "free",
+    "time": {
+      "start": "2022-11-02T15:00:00",
+      "end": "2022-11-02T16:30:00"
+    }
+  },
+  {
+    "name": "Cybersecurity Frontier",
+    "location": "Cyber Core, Earth Net",
+    "speaker": "Agent Lira Thorne",
+    "type": "paid",
+    "time": {
+      "start": "2022-12-11T17:00:00",
+      "end": "2022-12-11T18:00:00"
+    }
+  },
+  {
+    "name": "Building Colonies on Mars",
+    "location": "Mars Habitat Alpha",
+    "speaker": "Engineer Max Orion",
+    "type": "free",
+    "time": {
+      "start": "2023-01-07T08:00:00",
+      "end": "2023-01-07T09:30:00"
+    }
+  }
+]
