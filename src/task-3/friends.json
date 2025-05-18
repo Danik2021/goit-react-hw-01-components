@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Mango",
+    "avatar": "https://i.imgur.com/1X5Z5zI.jpg",
+    "isOnline": true
+  },
+  {
+    "id": 2,
+    "name": "Kiwi",
+    "avatar": "https://i.imgur.com/3cX8iJr.jpg",
+    "isOnline": false
+  },
+  {
+    "id": 3,
+    "name": "Ajax",
+    "avatar": "https://i.imgur.com/Ns6wLsX.jpg",
+    "isOnline": true
+  },
+  {
+    "id": 4,
+    "name": "Jay",
+    "avatar": "https://i.imgur.com/1hP6k1F.png",
+    "isOnline": true
+  },
+  {
+    "id": 5,
+    "name": "Lime",
+    "avatar": "https://i.imgur.com/qOZ5QbS.jpg",
+    "isOnline": false
+  }
+]
