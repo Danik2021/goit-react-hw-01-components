@@ -1,0 +1,29 @@
+.item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  background-color: #f0f0f0;
+  width: 67px;
+  height: 61px;
+  color: #fff;
+}
+
+.item:nth-child(1) {
+  background-color: rgba(80, 196, 247, 1);
+}
+.item:nth-child(2) {
+  background-color: rgba(165, 59, 243, 1);
+}
+.item:nth-child(3) {
+  background-color: rgba(230, 76, 102, 1);
+}
+.item:nth-child(4) {
+  background-color: rgba(32, 184, 195, 1);
+}
+
+/* .label {
+} */
+/* .percentage {
+} */

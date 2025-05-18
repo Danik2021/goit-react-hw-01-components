@@ -1,0 +1,22 @@
+[
+  {
+    "id": "id-1",
+    "label": "PDF",
+    "percentage": 20
+  },
+  {
+    "id": "id-2",
+    "label": "DOCX",
+    "percentage": 15
+  },
+  {
+    "id": "id-3",
+    "label": "MP3",
+    "percentage": 10
+  },
+  {
+    "id": "id-4",
+    "label": "PSD",
+    "percentage": 47
+  }
+]
