@@ -1,5 +1,5 @@
 import css from './Statistics.module.css';
-import { StatisticsItem } from '../StatisticsItem/StatisticsItem';
+import { StatisticsItem } from './StatisticsItem';
 import PropTypes from 'prop-types';
 
 export const Statistics = ({ data }) => {
